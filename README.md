@@ -14,7 +14,7 @@ JavaScript allows you to **change the displayed iPhone color** when clicking the
 
 ### 📸 Demo
 
-![Project demo](link-to-your-image-or-gif-here)
+![Project demo](screen-capture-_1_.gif)
 
 ### 💻 How to run
 
